@@ -1,5 +1,7 @@
 # TensorFlow Lite Pose Estimation with Pose Classification
 
+![Example Image](exampleImage.jpeg)
+
 A modernized Android application that performs real-time pose estimation and classification using TensorFlow Lite. This project builds upon the original Google TFLite Pose Estimation example, introducing modern Android development practices and advanced ML features.
 
 ## Key Contributions & Enhancements
